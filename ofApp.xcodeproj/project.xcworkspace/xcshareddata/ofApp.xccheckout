@@ -10,31 +10,31 @@
 	<string>ofApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>549A7972E6D8354A555C9315764763F226295368</key>
-		<string>https://github.com/Leo3600Liu/Guiaddexampleleo.git</string>
+		<key>6C65668C1FBAE7F39DE4DCA8879A55A5E92C857B</key>
+		<string>https://github.com/hongjiaz/Cindy_FaceFollow.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Cindy_FaceFollow/ofApp.xcodeproj</string>
+	<string>ofApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>549A7972E6D8354A555C9315764763F226295368</key>
-		<string>../../..</string>
+		<key>6C65668C1FBAE7F39DE4DCA8879A55A5E92C857B</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Leo3600Liu/Guiaddexampleleo.git</string>
+	<string>https://github.com/hongjiaz/Cindy_FaceFollow.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>549A7972E6D8354A555C9315764763F226295368</string>
+	<string>6C65668C1FBAE7F39DE4DCA8879A55A5E92C857B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>549A7972E6D8354A555C9315764763F226295368</string>
+			<string>6C65668C1FBAE7F39DE4DCA8879A55A5E92C857B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>myApps</string>
+			<string>Cindy_FaceFollow</string>
 		</dict>
 	</array>
 </dict>

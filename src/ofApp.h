@@ -12,6 +12,14 @@ public:
 	ofVideoGrabber cam;
     //insert the carema
 	ofxCv::ObjectFinder finder;
-	ofImage sunglasses;
     //load the image
+    int camWidth = 1280;
+    //set the carema width
+    int camHeight = 960;
+    //set the carema height
+    ofImage ppl;
+    //load image
+    float x,y;
+    float w,h;
+    
 };
